@@ -26,7 +26,7 @@ A simple Flutter app that fetches and displays a list of users from a remote API
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/user-list-app.git
+   git clone https://github.com/Atinuke-Manuels/HealTether_User_List.git
    ```
 
 2. Navigate to the project directory:
@@ -51,7 +51,7 @@ A simple Flutter app that fetches and displays a list of users from a remote API
 The app fetches data from the following free API:
 
 - **API URL**: [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
-- **Description**: Returns a list of users with their names, emails, and other details.
+- **Description**: Returns a list of users with their names, emails, and a placeholder avatar.
 
 ---
 
