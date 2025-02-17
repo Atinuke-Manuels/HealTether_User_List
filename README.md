@@ -31,7 +31,7 @@ A simple Flutter app that fetches and displays a list of users from a remote API
 
 2. Navigate to the project directory:
    ```bash
-   cd user-list-app
+   cd user_list
    ```
 
 3. Install dependencies:
@@ -101,11 +101,6 @@ lib/
 
 ---
 
-## Contributing
-
-Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request.
-
----
 
 ## License
 
